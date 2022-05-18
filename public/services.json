@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Todo one",
+        "completed": false,
+        "description": "This is my todo. I've to do this"
+    },
+    {
+        "title": "Todo one",
+        "completed": true,
+        "description": "This is my todo. I've to do this"
+    },
+    {
+        "title": "Todo one",
+        "completed": false,
+        "description": "This is my todo. I've to do this"
+    },
+    {
+        "title": "Todo one",
+        "completed": true,
+        "description": "This is my todo. I've to do this"
+    },
+    {
+        "title": "Todo one",
+        "completed": false,
+        "description": "This is my todo. I've to do this"
+    }
+]
